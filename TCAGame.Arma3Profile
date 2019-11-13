@@ -1,0 +1,66 @@
+difficulty="CustomDifficulty";
+class DifficultyPresets
+{
+	class CustomDifficulty
+	{
+		class Options
+		{
+			groupIndicators=0;
+			friendlyTags=0;
+			enemyTags=0;
+			detectedMines=0;
+			commands=0;
+			waypoints=0;
+			weaponInfo=1;
+			stanceIndicator=1;
+			reducedDamage=0;
+			staminaBar=0;
+			weaponCrosshair=0;
+			visionAid=0;
+			thirdPersonView=1;
+			cameraShake=1;
+			scoreTable=0;
+			deathMessages=0;
+			vonID=1;
+			mapContent=0;
+			autoReport=0;
+			multipleSaves=0;
+			squadRadar=0;
+			tacticalPing=0;
+		};
+		aiLevelPreset=3;
+	};
+	class CustomAILevel
+	{
+		skillAI=0.5;
+		precisionAI=0.5;
+	};
+};
+singleVoice=0;
+maxSamplesPlayed=96;
+battleyeLicense=1;
+activeKeys[]=
+{
+	"BIS_[MF]South_Pacific_Cold_War.Tanoa_done",
+	"BIS_z0120-20Op20Toucan.Tanoa_done",
+	"BIS_[YA]Operation_Black_Mamba.Altis_done",
+	"BIS_[MK]T3.ProvingGrounds_PMC_done",
+	"BIS_[MF]Protection_Detail.Tanoa_done",
+	"BIS_[MF]Seek_and_Destroy.Tanoa_done",
+	"BIS_[MF]Pacific_Cold_War.Tanoa_done",
+	"BIS_TFR_Operation_HORSEPLAY.Tanoa_done",
+	"BIS_[KT]BattleDamage.zargabad_done",
+	"BIS_TFR_Operation_NESTING_DOLL.Tanoa_done",
+	"BIS_[MF]Dawns_New_Light.Malden_done",
+	"BIS_[HY]Jarheads.tem_anizay_done"
+};
+sceneComplexity=400000;
+shadowZDistance=100;
+viewDistance=1000;
+preferredObjectViewDistance=800;
+terrainGrid=25;
+volumeCD=10;
+volumeFX=10;
+volumeSpeech=10;
+volumeVoN=10;
+vonRecThreshold=0.029999999;
