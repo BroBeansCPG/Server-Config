@@ -1,0 +1,160 @@
+// ACE Advanced Ballistics
+force ace_advanced_ballistics_enabled = true;
+
+// ACE Advanced Fatigue
+force force ace_advanced_fatigue_enabled = false;
+force ace_advanced_fatigue_loadFactor = 0.818852;
+force ace_advanced_fatigue_performanceFactor = 1.37589;
+force ace_advanced_fatigue_recoveryFactor = 1.59871;
+
+// ACE Advanced Throwing
+force ace_advanced_throwing_enabled = true;
+force ace_advanced_throwing_showMouseControls = true;
+force ace_advanced_throwing_showThrowArc = true;
+
+// ACE Arsenal
+force ace_arsenal_camInverted = false;
+force ace_arsenal_enableModIcons = true;
+force ace_arsenal_EnableRPTLog = false;
+force ace_arsenal_fontHeight = 4.5;
+
+// ACE Common
+force ace_common_displayTextColor = [0,0,0,0.1];
+force ace_common_displayTextFontColor = [1,1,1,1];
+force ace_common_settingFeedbackIcons = 1;
+force ace_common_settingProgressBarLocation = 0;
+force ace_parachute_hideAltimeter = true;
+
+// ACE Cook off
+force ace_cookoff_ammoCookoffDuration = 1.01381;
+force ace_cookoff_enable = true;
+force ace_cookoff_probabilityCoef = 0.958113;
+
+// ACE Fragmentation Simulation
+force ace_frag_spallEnabled = true;
+
+// ACE Goggles
+ace_goggles_effects = 0;
+
+// ACE Hearing
+force ace_hearing_disableEarRinging = true;
+force ace_hearing_earplugsVolume = 0.681818;
+force ace_hearing_enableCombatDeafness = false;
+force ace_hearing_enabledForZeusUnits = false;
+
+// ACE Interaction
+force ace_interaction_disableNegativeRating = true;
+force ace_interaction_enableMagazinePassing = true;
+
+// ACE Logistics
+force ace_repair_displayTextOnRepair = true;
+force ace_repair_engineerSetting_repair = 0;
+
+// ACE Map
+force ace_map_DefaultChannel = 1;
+force ace_markers_moveRestriction = 0;
+
+// ACE Medical
+force force ace_medical_AIDamageThreshold = 0.5;
+force ace_medical_allowUnconsciousAnimationOnTreatment = true;
+force ace_medical_amountOfReviveLives = 5;
+force ace_medical_enableFor = 1;
+force ace_medical_enableOverdosing = false;
+force force ace_medical_enableRevive = 1;
+force force ace_medical_enableUnconsciousnessAI = 0;
+force force ace_medical_healHitPointAfterAdvBandage = true;
+force ace_medical_increaseTrainingInLocations = true;
+force ace_medical_level = 2;
+force force ace_medical_litterCleanUpDelay = 800;
+force force ace_medical_litterSimulationDetail = 1;
+force ace_medical_maxReviveTime = 1500;
+force ace_medical_medicSetting = 2;
+force ace_medical_medicSetting_basicEpi = 0;
+force ace_medical_menu_useMenu = 1;
+ace_medical_painEffectType = 1;
+force force ace_medical_playerDamageThreshold = 5;
+force ace_medical_preventInstaDeath = true;
+force ace_medical_useCondition_PAK = 1;
+force ace_medical_useCondition_SurgicalKit = 1;
+force ace_medical_useLocation_PAK = 0;
+force ace_medical_useLocation_SurgicalKit = 0;
+
+// ACE Mk6 Mortar
+force ace_mk6mortar_airResistanceEnabled = true;
+force ace_mk6mortar_allowComputerRangefinder = false;
+force ace_mk6mortar_useAmmoHandling = true;
+
+// ACE Name Tags
+force ace_nametags_playerNamesMaxAlpha = 0.503564;
+force ace_nametags_playerNamesViewDistance = 3.45363;
+force ace_nametags_showNamesForAI = false;
+force ace_nametags_tagSize = 1;
+
+// ACE Nightvision
+force force ace_nightvision_aimDownSightsBlur = 0;
+force ace_nightvision_effectScaling = 0.750892;
+force ace_nightvision_fogScaling = 0.227273;
+force ace_nightvision_noiseScaling = 0.328608;
+force ace_nightvision_shutterEffects = true;
+
+// ACE Overheating
+force ace_overheating_displayTextOnJam = true;
+force ace_overheating_showParticleEffects = true;
+force ace_overheating_showParticleEffectsForEveryone = false;
+force ace_overheating_unJamOnreload = true;
+
+// ACE Pointing
+force ace_finger_enabled = true;
+
+// ACE Pylons
+force ace_pylons_requireToolkit = false;
+
+// ACE Respawn
+force ace_respawn_savePreDeathGear = true;
+
+// ACE Uncategorized
+force ace_fastroping_requireRopeItems = true;
+
+// ACE Weather
+force ace_weather_windSimulation = false;
+
+// ACEX Field Rations
+force force acex_field_rations_affectAdvancedFatigue = false;
+force force acex_field_rations_enabled = false;
+force force acex_field_rations_hungerSatiated = 10;
+force force acex_field_rations_thirstQuenched = 10;
+force force acex_field_rations_timeWithoutFood = 504;
+force force acex_field_rations_timeWithoutWater = 168;
+
+// ACEX Sitting
+force acex_sitting_enable = true;
+
+// ACEX View Restriction
+force force acex_viewrestriction_mode = 3;
+force force acex_viewrestriction_modeSelectiveAir = 0;
+force force acex_viewrestriction_modeSelectiveFoot = 1;
+force force acex_viewrestriction_modeSelectiveLand = 0;
+force force acex_viewrestriction_modeSelectiveSea = 0;
+force force acex_viewrestriction_preserveView = false;
+
+// ACRE2
+force force acre_sys_core_ts3ChannelName = "Operations Room";
+force force acre_sys_core_ts3ChannelPassword = "TFROPS";
+force force acre_sys_core_ts3ChannelSwitch = true;
+force acre_sys_core_unmuteClients = true;
+force force acre_sys_signal_signalModel = 2;
+
+// ADV - ACE CPR
+force force adv_aceCPR_useLocation_AED = 3;
+
+// ADV - ACE Splint
+force force adv_aceSplint_reopenChance_regular = 25;
+force force adv_aceSplint_reuseChance = 100;
+
+// DUI - Squad Radar - Indicators
+force diwako_dui_indicators_show = false;
+
+// DUI - Squad Radar - Radar
+diwako_dui_radar_namelist_vertical_spacing = 0.75;
+force diwako_dui_radar_sortType = "fireteam";
+force diwako_dui_radar_sqlFirst = true;
