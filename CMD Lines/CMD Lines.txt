@@ -1,0 +1,26 @@
+//*NEW TFR STD Mods
+
+        Server Mods:    @CBA_A3;@LAMBS_Danger_fsm;@LAMBS_RPG;@LAMBS_Suppression;@LAMBS_Turrets;@Advanced_Urban_Rappelling;@Advanced_Rappelling;
+
+        Mods:           @CBA_A3;@ace;@ACEX;@ADVACEMedical;@ACRE2;@Simplex_Support_Services;@CUP_Core;@CUP_Maps;@Interiors_CUP;@CUP_Weapons;@CUP_Units;@CUP_Vehicles;@RHSAFRF;@RHSGREF;@RHSSAF;@RHSUSAF;@3CB_BAF_Weapons;@RKSL_Studios_Attachments;@CFP;@ACE_Compat_RHSAFRF;@ACE_Compat_RHSGREF;@ACE_Compat_RHSUSAF;@CUP_ACE3_Compat_Weapons;@CUP_ACE3_Compat_Vehicles;@3CB_BAF_Weapons_RHS_ammo_compat;@Zeus_Enhanced;@Enhanced_Movement;@Splendid_Smoke;@DUI_Squad_Radar;
+
+
+//No Mods
+
+        Server Mods:    @CBA_A3;@Achilles;@LAMBS_Danger_fsm;@LAMBS_RPG;@LAMBS_Suppression;@LAMBS_Turrets;@Advanced_Urban_Rappelling;@Advanced_Rappelling;
+
+        Mods:
+
+
+//TFR Standard Mod Set
+
+        Server Mods:    @CBA_A3;@Achilles;@LAMBS_Danger_fsm;@LAMBS_RPG;@LAMBS_Suppression;@LAMBS_Turrets;@Advanced_Urban_Rappelling;@Advanced_Rappelling;
+
+        Mods:           @CBA_A3;@ACEX;@ACRE2;@ace;@ACE_Compat_RHSAFRF;@ACE_Compat_RHSGREF;@ACE_Compat_RHSUSAF;@CUP_Core;@CUP_CWA;@CUP_Maps;@RHSAFRF;@RHSGREF;@RHSSAF;@RHSUSAF;@DHI_BDU;@SMA;@SMA_RHS_Compat;@Military_Gear_Pack;@Splendid_Smoke;@ADVACEMedical;@3CB_BAF_Equipment;@3CB_BAF_Equipment_ACRE_compat;@3CB_BAF_Units;@3CB_BAF_Units_ACE_compat;@3CB_BAF_Units_RHS_compat;@3CB_BAF_Vehicles;@3CB_BAF_Vehicles_RHS_reskins;@3CB_BAF_Vehicles_Serv_ext;@3CB_BAF_Weapons;@3CB_Factions;@RKSL_Studios_Attachments;@Enhanced_Movement;@DUI_Squad_Radar;
+
+
+//TFR Vanilla Mod Set
+
+        Server Mods:    @CBA_A3;@Achilles;@LAMBS_Danger_fsm;@LAMBS_RPG;@LAMBS_Suppression;@LAMBS_Turrets;@Advanced_Urban_Rappelling;@Advanced_Rappelling;
+
+        Mods:           @CBA_A3;@ACEX;@ACRE2;@ace;@ADVACEMedical;@Enhanced_Movement;@DUI_Squad_Radar;@Splendid_Smoke;
