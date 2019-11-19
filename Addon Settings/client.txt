@@ -1,0 +1,122 @@
+// ACE Advanced Ballistics
+ace_advanced_ballistics_enabled = true;
+
+// ACE Advanced Fatigue
+ace_advanced_fatigue_enabled = false;
+ace_advanced_fatigue_loadFactor = 0.818852;
+ace_advanced_fatigue_performanceFactor = 1.37589;
+ace_advanced_fatigue_recoveryFactor = 1.59871;
+
+// ACE Cook off
+ace_cookoff_ammoCookoffDuration = 1.01381;
+ace_cookoff_enable = true;
+ace_cookoff_probabilityCoef = 0.958113;
+
+// ACE Fragmentation Simulation
+ace_frag_spallEnabled = true;
+
+// ACE Goggles
+ace_goggles_effects = 0;
+
+// ACE Hearing
+ace_hearing_earplugsVolume = 0.681818;
+ace_hearing_enableCombatDeafness = false;
+ace_hearing_enabledForZeusUnits = false;
+
+// ACE Interaction
+ace_interaction_disableNegativeRating = true;
+
+// ACE Interaction Menu
+ace_interact_menu_useListMenu = true;
+
+// ACE Logistics
+ace_repair_engineerSetting_repair = 0;
+
+// ACE Map
+ace_map_DefaultChannel = 1;
+
+// ACE Medical
+ace_medical_AIDamageThreshold = 0.5;
+ace_medical_allowUnconsciousAnimationOnTreatment = true;
+ace_medical_amountOfReviveLives = 5;
+ace_medical_enableOverdosing = false;
+ace_medical_enableRevive = 2;
+ace_medical_enableUnconsciousnessAI = 0;
+ace_medical_increaseTrainingInLocations = true;
+ace_medical_level = 2;
+ace_medical_litterCleanUpDelay = 800;
+ace_medical_litterSimulationDetail = 1;
+ace_medical_maxReviveTime = 1500;
+ace_medical_medicSetting = 2;
+ace_medical_menu_useMenu = 1;
+ace_medical_painEffectType = 1;
+ace_medical_playerDamageThreshold = 5;
+ace_medical_preventInstaDeath = true;
+ace_medical_useCondition_PAK = 1;
+ace_medical_useCondition_SurgicalKit = 1;
+ace_medical_useLocation_PAK = 0;
+ace_medical_useLocation_SurgicalKit = 0;
+
+// ACE Mk6 Mortar
+ace_mk6mortar_airResistanceEnabled = true;
+ace_mk6mortar_allowComputerRangefinder = false;
+ace_mk6mortar_useAmmoHandling = true;
+
+// ACE Name Tags
+ace_nametags_playerNamesMaxAlpha = 0.503564;
+ace_nametags_playerNamesViewDistance = 3.45363;
+ace_nametags_tagSize = 1;
+
+// ACE Nightvision
+ace_nightvision_aimDownSightsBlur = 0;
+ace_nightvision_effectScaling = 0.750892;
+ace_nightvision_fogScaling = 0.97742;
+ace_nightvision_noiseScaling = 0.328608;
+
+// ACE Overheating
+ace_overheating_unJamOnreload = true;
+
+// ACE Pointing
+ace_finger_enabled = true;
+
+// ACE Pylons
+ace_pylons_requireToolkit = false;
+
+// ACE Respawn
+ace_respawn_savePreDeathGear = true;
+
+// ACE Uncategorized
+ace_fastroping_requireRopeItems = true;
+
+// ACE Weather
+ace_weather_windSimulation = false;
+
+// ACEX Sitting
+acex_sitting_enable = true;
+
+// ACEX View Restriction
+acex_viewrestriction_mode = 3;
+acex_viewrestriction_modeSelectiveFoot = 1;
+
+// ACRE2
+acre_sys_core_ts3ChannelName = "Operations Room";
+acre_sys_core_ts3ChannelPassword = "TFROPS";
+
+// ADV - ACE CPR
+adv_aceCPR_useLocation_AED = 3;
+
+// ADV - ACE Splint
+adv_aceSplint_reopenChance_regular = 25;
+adv_aceSplint_reuseChance = 100;
+
+// DUI - Squad Radar - Indicators
+diwako_dui_indicators_show = false;
+
+// DUI - Squad Radar - Radar
+diwako_dui_enable_compass_dir = 2;
+diwako_dui_radar_namelist_vertical_spacing = 0.75;
+diwako_dui_radar_sortType = "fireteam";
+diwako_dui_radar_sqlFirst = true;
+
+// Zeus Enhanced
+zen_visibility_enabled = true;
