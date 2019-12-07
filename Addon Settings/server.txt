@@ -48,7 +48,6 @@ force ace_interaction_enableMagazinePassing = true;
 // ACE Interaction Menu
 ace_interact_menu_alwaysUseCursorInteraction = true;
 ace_interact_menu_alwaysUseCursorSelfInteraction = true;
-ace_interact_menu_cursorKeepCentered = true;
 ace_interact_menu_useListMenu = true;
 
 // ACE Logistics
@@ -137,11 +136,14 @@ force force acex_viewrestriction_preserveView = false;
 
 // ACEX Volume
 acex_volume_enabled = true;
+acex_volume_fadeDelay = 3;
 acex_volume_lowerInVehicles = true;
+acex_volume_reduction = 6;
+acex_volume_showNotification = false;
 
 // ACRE2
 force force acre_sys_core_ts3ChannelName = "Operations Room";
-force force acre_sys_core_ts3ChannelPassword = "TFROPS";
+force force acre_sys_core_ts3ChannelPassword = "";   // refer to our discord
 force force acre_sys_core_ts3ChannelSwitch = true;
 force acre_sys_core_unmuteClients = true;
 force force acre_sys_signal_signalModel = 2;
