@@ -24,10 +24,9 @@ force ace_hearing_enabledForZeusUnits = false;
 force ace_interaction_disableNegativeRating = true;
 
 // ACE Interaction Menu
-force ace_interact_menu_alwaysUseCursorInteraction = true;
-force ace_interact_menu_alwaysUseCursorSelfInteraction = true;
-force ace_interact_menu_cursorKeepCentered = true;
-force ace_interact_menu_useListMenu = true;
+ace_interact_menu_alwaysUseCursorInteraction = true;
+ace_interact_menu_alwaysUseCursorSelfInteraction = true;
+ace_interact_menu_useListMenu = true;
 
 // ACE Logistics
 force ace_refuel_hoseLength = 20;
@@ -103,9 +102,16 @@ force acex_sitting_enable = true;
 force acex_viewrestriction_mode = 3;
 force acex_viewrestriction_modeSelectiveFoot = 1;
 
+// ACEX Volume
+acex_volume_enabled = true;
+acex_volume_fadeDelay = 3;
+acex_volume_lowerInVehicles = true;
+acex_volume_reduction = 6;
+acex_volume_showNotification = false;
+
 // ACRE2
 force acre_sys_core_ts3ChannelName = "Operations Room";
-force acre_sys_core_ts3ChannelPassword = "TFROPS";
+force acre_sys_core_ts3ChannelPassword = "";  //refer to our discord
 
 // ADV - ACE CPR
 force adv_aceCPR_chance_0 = 30;
